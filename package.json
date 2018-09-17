@@ -1,0 +1,35 @@
+{
+  "name": "super-worker",
+  "version": "1.0.0",
+  "description": "Split a large number of concurrent tasks into execution",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjmmc/super-worker.git"
+  },
+  "keywords": [
+    "super-worker",
+    "worker",
+    "thread-pool",
+    "worker-pool",
+    "queue-workers",
+    "queue-tasks",
+    "multi-fetch",
+    "multi-post",
+    "multi-get",
+    "multi-http"
+  ],
+  "author": "hjmmc <haojie.liu@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjmmc/super-worker/issues"
+  },
+  "homepage": "https://github.com/hjmmc/super-worker#readme"
+}
